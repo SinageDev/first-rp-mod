@@ -12,13 +12,14 @@
   - JSON: [Newtonsoft.Json](https://www.newtonsoft.com/json)
 + [TS](https://www.typescriptlang.org/) (Client-Side)
   - Build Tool: [Webpack](https://webpack.js.org/)
-+ [Vue](https://vuejs.org/) SPA (CEF)
++ [Vue](https://vuejs.org/) (CEF)
   - Build Tool: [Vite](https://vitejs.dev/)
   - Main Language: [TS](https://www.typescriptlang.org/)
   - API Style: [Composition](https://vuejs.org/guide/introduction.html#composition-api)
   - Router: [Vue-Router](https://router.vuejs.org/)
   - Store: [Pinia](https://pinia.vuejs.org/)
   - Preprocessor: [Stylus](https://stylus-lang.com/)
+  - Features: [SPA](https://vuejs.org/guide/extras/ways-of-using-vue.html#single-page-application-spa), [SFC](https://vuejs.org/guide/scaling-up/sfc.html)
 
 Мод не будет иметь конкретного названия. Как я уже упоминал, в целях тренировки я буду использовать реальные дизайны, именно поэтому в них могут отличаться логотипы и названия. Так что этот мод точно не подойдет для тех, кто хочет сразу же запустить свой проект, как минимум придется поменять дизайн интерфейсов.
 
