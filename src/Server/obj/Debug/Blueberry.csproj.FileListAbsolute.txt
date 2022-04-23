@@ -1,0 +1,10 @@
+C:\Users\paesh\Desktop\Blueberry\dotnet\resources\Blueb\Blueberry.deps.json
+C:\Users\paesh\Desktop\Blueberry\dotnet\resources\Blueb\Blueberry.dll
+C:\Users\paesh\Desktop\Blueberry\dotnet\resources\Blueb\Blueberry.pdb
+C:\Users\paesh\Desktop\Blueberry\src\Blueberry\obj\Debug\Blueberry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paesh\Desktop\Blueberry\src\Blueberry\obj\Debug\Blueberry.AssemblyInfoInputs.cache
+C:\Users\paesh\Desktop\Blueberry\src\Blueberry\obj\Debug\Blueberry.AssemblyInfo.cs
+C:\Users\paesh\Desktop\Blueberry\src\Blueberry\obj\Debug\Blueberry.csproj.CoreCompileInputs.cache
+C:\Users\paesh\Desktop\Blueberry\src\Blueberry\obj\Debug\Blueberry.csproj.CopyComplete
+C:\Users\paesh\Desktop\Blueberry\src\Blueberry\obj\Debug\Blueberry.dll
+C:\Users\paesh\Desktop\Blueberry\src\Blueberry\obj\Debug\Blueberry.pdb

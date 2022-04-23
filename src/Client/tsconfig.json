@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "baseUrl": "./src/",
+    "noImplicitAny": true,
+    "module": "es6",
+    "target": "es5",
+    "lib": ["es5", "es6", "dom"],
+    "allowJs": true,
+    "moduleResolution": "node",
+    "types": ["./node_modules/@ragempcommunity/types-client"]
+  }
+}

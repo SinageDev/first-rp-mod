@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Blueberry": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\paesh\\Desktop\\Blueberry\\ragemp-server.exe",
+      "workingDirectory": "C:\\Users\\paesh\\Desktop\\Blueberry"
+    }
+  }
+}
