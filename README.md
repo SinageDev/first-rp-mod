@@ -6,8 +6,12 @@
 # О моде
 Языки и фреймворки используемые в моде:
   1. C# (Server-Side)
-  2. JS (Client-Side)
+  2. TS (Client-Side)
   3. Vue (CEF)
+    • TS
+    • Composition API
+    • Router (Vue)
+    • Store (Pinia)
 
 Весь гейм дизайн не продуман идеально и будет дополняться по мере разработки.
 
